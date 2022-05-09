@@ -1,0 +1,9 @@
+{
+  "favorites.resources": [
+    {
+      "filePath": "src\\components\\Navbar.js",
+      "group": "Default"
+    }
+  ],
+  "workbench.colorTheme": "Monokai"
+}
