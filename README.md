@@ -1,6 +1,7 @@
 
 ## WorkOrPay.com
 https://workorpay.com
+The real live repo is private. This is a duplicated public fork. 
 
 
 ## Stack
