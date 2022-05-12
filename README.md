@@ -14,9 +14,9 @@ This project uses the following libraries and services:
 - Database - [Cloud Firestore](https://firebase.google.com/products/firestore)
 - Chat - [Crisp] (https://crisp.chat)
 - Framework - [Create React App](https://create-react-app.dev) with React Router
+- Backend - [Node](https://nodejs.org/en/)
 - Analytics - [Google Analytics](https://googleanalytics.com)
 - UI Kit - [Material UI](https://material-ui.com)
-- Newsletter - [Mailchimp](https://mailchimp.com)
 - Contact Form - [Google Sheets](https://www.google.com/sheets/about/)
 
 
