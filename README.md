@@ -7,7 +7,7 @@ The real live repo is private. This repo is a duplicated identical public fork.
 ---
 
 ## Who we are
-
+Work or Pay lets you write concrete goals and a deadline to complete it, then allows you to deposit money that we hold until the deadline passes. We act as a middleman to decide whether you achieved the goal or not 
 1) Form a Contract
 
  - Our contracts provide external motivation, keeping you on track to meet your goals.
